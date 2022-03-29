@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Detikcom</string>
+    <string name="text_terbaru">text_terbaru</string>
+    <string name="text_berita_utama">text_berita_utama</string>
+    <string name="antarkansemangat">#antarkansemangat</string>
+    <string name="most_popular">most popular</string>
+    <string name="contdesc">contdesc</string>
+    <string name="text_judul_headline">text_judul_headline</string>
+    <string name="text_deskripsi_headline">text_deskripsi_headline</string>
+    <string name="foto_desc">foto_desc</string>
+    <string name="detiknews">detiknews</string>
+    <string name="judul_berita">judul_berita</string>
+    <string name="yudisitira_saputra">yudisitira_saputra</string>
+    <string name="date">date</string>
+    <string name="lorem_ipsum">lorem_ipsum</string>
+    <string name="baca_juga">_baca_juga</string>
+</resources>
